@@ -1,0 +1,9 @@
+{
+  "name": "my-fun-project",
+  "author": "Mikael Airlangga",
+  "private": true,
+  "version": "0.1.0",
+  "dependencies": {
+    "mustache": "^2.3.0"
+  }
+}
